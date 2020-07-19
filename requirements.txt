@@ -22,7 +22,6 @@ jupyter==1.0.0
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 kiwisolver==1.2.0
-lxml==4.5.1
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
