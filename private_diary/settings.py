@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+import django_on_heroku
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 # Static asset configuration
@@ -168,3 +169,5 @@ LOGGING = {
         },
     }
 }
+
+django_on_heroku.settings(locals())
