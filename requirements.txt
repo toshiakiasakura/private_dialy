@@ -60,8 +60,6 @@ ptyprocess==0.6.0
 py==1.9.0
 pycparser==2.20
 Pygments==2.6.1
-pygraphviz==1.5
-pymc3==3.9.2
 pyparsing==2.4.7
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
